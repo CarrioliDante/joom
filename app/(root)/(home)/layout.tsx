@@ -1,3 +1,5 @@
+import Navbar from '@/components/Navbar'
+import Sidebar from '@/components/Sidebar'
 import React, { ReactNode } from 'react'
 
 const HomeLayout = ({
@@ -7,9 +9,9 @@ const HomeLayout = ({
 }) => {
   return (
     <main className='relative'>
-      Navbar
+      <Navbar />
       <div className='flex'>
-        Sidebar
+        <Sidebar />
         <section className='pb:6 flex min-h-screen flex-1 flex-col px-6 pt-28 max-md:pb-14 sm:px-14'>
           <div className='w-full'>{children}</div>
         </section>
