@@ -4,7 +4,7 @@
   "arrowParens": "always",
   "trailingComma": "es5",
   "jsxSingleQuote": true,
-  "printWidth": 60,
+  "printWidth": 70,
   "tabWidth": 2,
   "objectProperties": "multiline",
   "objectKeySpacing": true,
