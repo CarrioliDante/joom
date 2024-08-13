@@ -1,6 +1,7 @@
 # Joom - Clon de Zoom
 
-!(https://github.com/user-attachments/assets/09656a16-5daa-4a75-bfc9-cab71e473116)
+
+![joom showcase](https://github.com/user-attachments/assets/a960c28d-e76f-421e-9371-b6d3add1deb7)
 
 ##Pruebalo aqui:
 https://joom-lime.vercel.app/
