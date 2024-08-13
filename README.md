@@ -1,9 +1,9 @@
 # Joom - Clon de Zoom
 
+![joom showcase](https://github.com/user-attachments/assets/ec5048d3-758a-41f5-8555-d27fd1a85cb9)
 
-![joom showcase](https://github.com/user-attachments/assets/a960c28d-e76f-421e-9371-b6d3add1deb7)
 
-##Pruebalo aqui:
+## Pruebalo aqui:
 https://joom-lime.vercel.app/
 
 ## Descripción del Proyecto
@@ -21,6 +21,7 @@ Este proyecto es un ejercicio autodidacta para mantener mis habilidades técnica
 - 📹 **Grabar y Compartir Pantalla:** Captura reuniones y comparte tu pantalla con los participantes.
 - 🎥 **Ver Grabaciones:** Accede y reproduce reuniones anteriores en cualquier momento.
 
+## Stack Tecnológico 
 
 - **Next.js:** Utilizado para la renderización del lado del servidor (SSR) y generación de sitios estáticos (SSG).
 - **React:** Biblioteca principal para el desarrollo de interfaces de usuario interactivas y reutilizables.
